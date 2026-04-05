@@ -1,3 +1,6 @@
+
+<img width="1919" height="867" alt="Screenshot 2026-04-05 163720" src="https://github.com/user-attachments/assets/83560efc-61bd-43de-b9df-420178354049" />
+
 # 🐍 Nokia Snake Game (Nginx Deployment)
 
 A **classic Nokia-style Snake game** built using **HTML5, CSS, and JavaScript**, designed with a retro interface and optimized for deployment as a **lightweight static web application using Nginx**.
